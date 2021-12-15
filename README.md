@@ -67,12 +67,12 @@ List your routes in a table
 
 ## Wireframe
 
-[<img width="600px" src="artwork_index_page.png" />]
-[<img width="600px" src="artwork_show_page.png" />]
-[<img width="600px" src="artist_index_page.png" />]
-[<img width="600px" src="artist_show_page.png" />]
-[<img width="600px" src="location_index_page.png" />]
-[<img width="600px" src="location_show_page.png" />]
+<img width="600px" src="artwork_index_page.png" />
+<img width="600px" src="artwork_show_page.png" />
+<img width="600px" src="artist_index_page.png" />
+<img width="600px" src="artist_show_page.png" />
+<img width="600px" src="location_index_page.png" />
+<img width="600px" src="location_show_page.png" />
 
 ## Components
 
